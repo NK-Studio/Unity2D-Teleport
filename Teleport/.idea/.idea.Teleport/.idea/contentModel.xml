@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\kimhanyong\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\kimhanyong\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_Teleport.2013399874.00" t="ExcludeRecursive" />
+    <e p="C:\Users\kimhanyong\Desktop\Teleport" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Script" t="Include">
+          <e p="Item.cs" t="Include" />
+          <e p="Player.cs" t="Include" />
+          <e p="Portal.cs" t="Include" />
+          <e p="PortalClone.cs" t="Include" />
+          <e p="TEs.cs" t="Include" />
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Teleport.sln" t="IncludeFlat" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
