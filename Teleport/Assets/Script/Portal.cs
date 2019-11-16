@@ -46,7 +46,7 @@ public class Portal : MonoBehaviour
         _spr = GetComponent<SpriteRenderer>();
 
         //이미지의 사이즈를 가져옴
-        PortalSize = MoveToPortal.GetComponent<SpriteRenderer>().size;
+        PortalSize = MoveToPortal.GetComponent<SpriteRenderer>().bounds.size;
 
         //포탈의 레이어 마스크를 포탈로 설정해줌
         gameObject.layer = LayerMask.NameToLayer("Portal");
